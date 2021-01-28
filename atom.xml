@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simplysu.github.io</id>
     <title>Pure.site</title>
-    <updated>2021-01-28T11:38:41.324Z</updated>
+    <updated>2021-01-28T11:44:06.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simplysu.github.io"/>
     <link rel="self" href="https://simplysu.github.io/atom.xml"/>
@@ -16,6 +16,17 @@
         <link href="https://simplysu.github.io/post/notepad3/">
         </link>
         <updated>2021-01-28T09:23:53.000Z</updated>
+        <summary type="html"><![CDATA[<img src="../../post-images/1611829890405.png" width = "128" height = "128" div align=left />
+<h2 id="nodepad3"><strong>Nodepad3</strong> 🔥</h2>
+<p>开发者 <a href="https://www.rizonesoft.com">Rizonesoft</a>  |  <a href="https://www.rizonesoft.com/downloads/notepad3/">下载</a></p>
+<p>We created Notepad3 with all the features that the default Windows Notepad currently lacks. Notepad3 is a fast and light-weight Scintilla-based text editor with syntax highlighting. It has a small memory footprint, but is powerful enough to handle most programming jobs.</p>
+<p><em><strong>Translate：</strong></em> 我们使用默认的 Windows 记事本当前缺少的所有功能创建了 Notepad3。 Notepad3 是基于Scintilla 的快速轻量级文本编辑器，具有语法突出显示功能。 它的内存占用量很小，但功能强大，足以处理大多数编程工作。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Windows 7, 8, 8.1 and 10 both 32-bit and 64-bit</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>简洁、开源、非常实用的搜索查找功能<br>
+完美替换系统 Windows Notepad，满足记事本的需求，五星推荐</p>
+]]></summary>
         <content type="html"><![CDATA[<img src="../../post-images/1611829890405.png" width = "128" height = "128" div align=left />
 <h2 id="nodepad3"><strong>Nodepad3</strong> 🔥</h2>
 <p>开发者 <a href="https://www.rizonesoft.com">Rizonesoft</a>  |  <a href="https://www.rizonesoft.com/downloads/notepad3/">下载</a></p>
@@ -26,6 +37,7 @@
 <h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
 <p>简洁、开源、非常实用的搜索查找功能<br>
 完美替换系统 Windows Notepad，满足记事本的需求，五星推荐</p>
+<!-- more -->
 <h3 id="路线"><strong>路线</strong></h3>
 <p>📝 Notepad -&gt; <a href="https://www.flos-freeware.ch/notepad2.html">Notepad2</a> -&gt; <a href="https://www.rizonesoft.com/downloads/notepad3/">Notepad3</a></p>
 <h3 id="官方介绍"><strong>官方介绍</strong></h3>
