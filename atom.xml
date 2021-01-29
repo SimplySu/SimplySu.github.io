@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simplysu.github.io</id>
     <title>Pure.site</title>
-    <updated>2021-01-29T09:58:44.996Z</updated>
+    <updated>2021-01-29T11:08:19.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simplysu.github.io"/>
     <link rel="self" href="https://simplysu.github.io/atom.xml"/>
@@ -18,7 +18,7 @@
         <updated>2021-01-29T07:50:51.000Z</updated>
         <summary type="html"><![CDATA[<div align="left" style="float: left;margin-right: 10px;margin-top: 14px"><img src="../../post-images/1611908481741.png" width = "120" height = "120"/></div>
 <h2 id="diagramsnetdrawio"><strong>diagrams.net（drawio）</strong> 🔥</h2>
-<p>开发者 <a href="https://www.diagrams.net">diagrams.net</a>  | <a href="https://app.diagrams.net/">Web版开始</a> | <a href="https://github.com/jgraph/drawio-desktop/releases/">桌面版下载</a> | <a href="https://github.com/jgraph/drawio">源码</a></p>
+<p>开发者 <a href="https://www.diagrams.net" target="_blank">diagrams.net</a> | <a href="https://app.diagrams.net/" target="_blank">Web版开始</a> | <a href="https://github.com/jgraph/drawio-desktop/releases/" target="_blank">桌面版下载</a> | <a href="https://github.com/jgraph/drawio" target="_blank">源码</a></p>
 <p>diagrams.net is a secure, free and open source diagramming app that you can use online, offline (desktop).</p>
 <p><em><strong>Translate：</strong></em> diagrams.net是一个安全，免费和开源的绘图应用程序，您可以在线，离线（桌面）使用。</p>
 <h3 id="系统支持"><strong>系统支持</strong></h3>
@@ -29,7 +29,7 @@ Desktop：Windows / macOS / Linux / Google Chrome OS</p>
 ]]></summary>
         <content type="html"><![CDATA[<div align="left" style="float: left;margin-right: 10px;margin-top: 14px"><img src="../../post-images/1611908481741.png" width = "120" height = "120"/></div>
 <h2 id="diagramsnetdrawio"><strong>diagrams.net（drawio）</strong> 🔥</h2>
-<p>开发者 <a href="https://www.diagrams.net">diagrams.net</a>  | <a href="https://app.diagrams.net/">Web版开始</a> | <a href="https://github.com/jgraph/drawio-desktop/releases/">桌面版下载</a> | <a href="https://github.com/jgraph/drawio">源码</a></p>
+<p>开发者 <a href="https://www.diagrams.net" target="_blank">diagrams.net</a> | <a href="https://app.diagrams.net/" target="_blank">Web版开始</a> | <a href="https://github.com/jgraph/drawio-desktop/releases/" target="_blank">桌面版下载</a> | <a href="https://github.com/jgraph/drawio" target="_blank">源码</a></p>
 <p>diagrams.net is a secure, free and open source diagramming app that you can use online, offline (desktop).</p>
 <p><em><strong>Translate：</strong></em> diagrams.net是一个安全，免费和开源的绘图应用程序，您可以在线，离线（桌面）使用。</p>
 <h3 id="系统支持"><strong>系统支持</strong></h3>
@@ -46,7 +46,7 @@ Desktop：Windows / macOS / Linux / Google Chrome OS</p>
 <p>Diagramming is not like painting with brushes as if you were editing a photo. Instead, you place diagram elements then resize, rotate, and connect them together and change their styles.<br>
 <em><strong>Translate：</strong></em> 绘制图形并不像用画笔绘画一样，就像在编辑照片一样。相反，您可以放置​​图元素，然后调整其大小，旋转并将它们连接在一起并更改其样式。<br>
 ……<br>
-<a href="https://www.diagrams.net/">更多故事请访问官网 👉</a></p>
+<a href="https://www.diagrams.net/" target="_blank">更多故事请访问官网 👉</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -57,7 +57,7 @@ Desktop：Windows / macOS / Linux / Google Chrome OS</p>
         <updated>2021-01-28T12:03:08.000Z</updated>
         <summary type="html"><![CDATA[<img src="../../post-images/1611835588815.png" width = "128" height = "128" div align=left />
 <h2 id="kate"><strong>Kate</strong> 🔥</h2>
-<p>开发者 <a href="https://kate-editor.org">The Kate Team</a>  |  <a href="https://kate-editor.org/get-it/">下载</a> | <a href="https://invent.kde.org/utilities/kate">源码</a></p>
+<p>开发者 <a href="https://kate-editor.org" target="_blank">The Kate Team</a> |  <a href="https://kate-editor.org/get-it/" target="_blank">下载</a> | <a href="https://invent.kde.org/utilities/kate" target="_blank">源码</a></p>
 <p>Kate is a multi-document editor part of KDE since release 2.2. Being a KDE applications, Kate ships with network transparency, as well as integration with the outstanding features of KDE. Choose it for viewing HTML sources from konqueror, editing configuration files, writing new applications or any other text editing task. You still need just one running instance of Kate.</p>
 <p><em><strong>Translate：</strong></em> 自2.2版以来，Kate是KDE的多文档编辑器部分。作为KDE应用程序，Kate具有网络透明性以及与KDE杰出功能的集成。选择它可以查看konqueror中的HTML源，编辑配置文件，编写新应用程序或任何其他文本编辑任务。您仍然仅需要一个正在运行的Kate实例。</p>
 <h3 id="系统支持"><strong>系统支持</strong></h3>
@@ -67,7 +67,7 @@ Desktop：Windows / macOS / Linux / Google Chrome OS</p>
 ]]></summary>
         <content type="html"><![CDATA[<img src="../../post-images/1611835588815.png" width = "128" height = "128" div align=left />
 <h2 id="kate"><strong>Kate</strong> 🔥</h2>
-<p>开发者 <a href="https://kate-editor.org">The Kate Team</a>  |  <a href="https://kate-editor.org/get-it/">下载</a> | <a href="https://invent.kde.org/utilities/kate">源码</a></p>
+<p>开发者 <a href="https://kate-editor.org" target="_blank">The Kate Team</a> |  <a href="https://kate-editor.org/get-it/" target="_blank">下载</a> | <a href="https://invent.kde.org/utilities/kate" target="_blank">源码</a></p>
 <p>Kate is a multi-document editor part of KDE since release 2.2. Being a KDE applications, Kate ships with network transparency, as well as integration with the outstanding features of KDE. Choose it for viewing HTML sources from konqueror, editing configuration files, writing new applications or any other text editing task. You still need just one running instance of Kate.</p>
 <p><em><strong>Translate：</strong></em> 自2.2版以来，Kate是KDE的多文档编辑器部分。作为KDE应用程序，Kate具有网络透明性以及与KDE杰出功能的集成。选择它可以查看konqueror中的HTML源，编辑配置文件，编写新应用程序或任何其他文本编辑任务。您仍然仅需要一个正在运行的Kate实例。</p>
 <h3 id="系统支持"><strong>系统支持</strong></h3>
@@ -87,7 +87,7 @@ Kate is a multi-document editor part of KDE since release 2.2. Being a KDE appli
 KWrite is a simple text editor application, allowing you to edit one file at the time per window. As Kate, KWrite uses the editor component KatePart.KWrite simply provides the selected editor component with a window frame, and lets you open and save documents. KWrite shares all features the KatePart provides, look here to get an overview.<br>
 <em><strong>Translate：</strong></em> KWrite是一个简单的文本编辑器应用程序，可让您在每个窗口一次编辑一个文件。与Kate一样，KWrite使用编辑器组件KatePart.KWrite只是为选定的编辑器组件提供一个窗口框架，并允许您打开和保存文档。 KWrite共享KatePart提供的所有功能，请单击此处以获取概述。<br>
 ……<br>
-<a href="https://kate-editor.org/">更多故事请访问官网 👉</a></p>
+<a href="https://kate-editor.org/" target="_blank">更多故事请访问官网 👉</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -98,7 +98,7 @@ KWrite is a simple text editor application, allowing you to edit one file at the
         <updated>2021-01-28T09:23:53.000Z</updated>
         <summary type="html"><![CDATA[<img src="../../post-images/1611829890405.png" width = "128" height = "128" div align=left />
 <h2 id="nodepad3"><strong>Nodepad3</strong> 🔥</h2>
-<p>开发者 <a href="https://www.rizonesoft.com">Rizonesoft</a>  |  <a href="https://www.rizonesoft.com/downloads/notepad3/">下载</a> | <a href="https://github.com/rizonesoft/Notepad3">源码</a></p>
+<p>开发者 <a href="https://www.rizonesoft.com" target="_blank">Rizonesoft</a>  |  <a href="https://www.rizonesoft.com/downloads/notepad3/" target="_blank">下载</a> | <a href="https://github.com/rizonesoft/Notepad3" target="_blank">源码</a></p>
 <p>We created Notepad3 with all the features that the default Windows Notepad currently lacks. Notepad3 is a fast and light-weight Scintilla-based text editor with syntax highlighting. It has a small memory footprint, but is powerful enough to handle most programming jobs.</p>
 <p><em><strong>Translate：</strong></em> 我们使用默认的 Windows 记事本当前缺少的所有功能创建了 Notepad3。 Notepad3 是基于Scintilla 的快速轻量级文本编辑器，具有语法突出显示功能。 它的内存占用量很小，但功能强大，足以处理大多数编程工作。</p>
 <h3 id="系统支持"><strong>系统支持</strong></h3>
@@ -109,7 +109,7 @@ KWrite is a simple text editor application, allowing you to edit one file at the
 ]]></summary>
         <content type="html"><![CDATA[<img src="../../post-images/1611829890405.png" width = "128" height = "128" div align=left />
 <h2 id="nodepad3"><strong>Nodepad3</strong> 🔥</h2>
-<p>开发者 <a href="https://www.rizonesoft.com">Rizonesoft</a>  |  <a href="https://www.rizonesoft.com/downloads/notepad3/">下载</a> | <a href="https://github.com/rizonesoft/Notepad3">源码</a></p>
+<p>开发者 <a href="https://www.rizonesoft.com" target="_blank">Rizonesoft</a>  |  <a href="https://www.rizonesoft.com/downloads/notepad3/" target="_blank">下载</a> | <a href="https://github.com/rizonesoft/Notepad3" target="_blank">源码</a></p>
 <p>We created Notepad3 with all the features that the default Windows Notepad currently lacks. Notepad3 is a fast and light-weight Scintilla-based text editor with syntax highlighting. It has a small memory footprint, but is powerful enough to handle most programming jobs.</p>
 <p><em><strong>Translate：</strong></em> 我们使用默认的 Windows 记事本当前缺少的所有功能创建了 Notepad3。 Notepad3 是基于Scintilla 的快速轻量级文本编辑器，具有语法突出显示功能。 它的内存占用量很小，但功能强大，足以处理大多数编程工作。</p>
 <h3 id="系统支持"><strong>系统支持</strong></h3>
@@ -119,7 +119,7 @@ KWrite is a simple text editor application, allowing you to edit one file at the
 完美替换系统 Windows Notepad，满足记事本的需求，五星推荐</p>
 <!-- more -->
 <h3 id="路线"><strong>路线</strong></h3>
-<p>📝 Notepad -&gt; <a href="https://www.flos-freeware.ch/notepad2.html">Notepad2</a> -&gt; <a href="https://www.rizonesoft.com/downloads/notepad3/">Notepad3</a></p>
+<p>📝 Notepad -&gt;<a href="https://www.flos-freeware.ch/notepad2.html" target="_blank">Notepad2</a> -&gt; <a href="https://www.rizonesoft.com/downloads/notepad3/" target="_blank">Notepad3</a></p>
 <h3 id="官方介绍"><strong>官方介绍</strong></h3>
 <p>Although the Windows operating system was updated significantly over the past years.  However, the default Windows Notepad has not been updated in 20 years. If you need a text editor for simple programming tasks, using the vanilla Windows Notepad just does not cut it.<br>
 <em><strong>Translate：</strong></em> 尽管 Windows 操作系统在过去几年中已进行了重大更新。但是，默认的 Windows 记事本在 20 年内没有更新。如果您需要使用文本编辑器来执行简单的编程任务，则使用 vanilla Windows 记事本就不会剪切它。</p>
@@ -128,7 +128,7 @@ KWrite is a simple text editor application, allowing you to edit one file at the
 <p>Notepad3 is based on code from the awesome Notepad2 by Florian Balmer and Notepad2-mod by XhmikosR.<br>
 <em><strong>Translate：</strong></em> Notepad3 基于 Florian Balmer 出色的 Notepad2 和 XhmikosR 的 Notepad2-mod 的代码。<br>
 ……<br>
-<a href="https://www.rizonesoft.com/downloads/notepad3/">更多故事请访问官网 👉</a></p>
+<a href="https://www.rizonesoft.com/downloads/notepad3/" target="_blank">更多故事请访问官网 👉</a></p>
 ]]></content>
     </entry>
     <entry>
