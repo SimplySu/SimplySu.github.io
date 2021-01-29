@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simplysu.github.io</id>
     <title>Pure.site</title>
-    <updated>2021-01-29T07:25:31.846Z</updated>
+    <updated>2021-01-29T08:52:52.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simplysu.github.io"/>
     <link rel="self" href="https://simplysu.github.io/atom.xml"/>
@@ -10,6 +10,45 @@
     <logo>https://simplysu.github.io/images/avatar.png</logo>
     <icon>https://simplysu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Pure.site</rights>
+    <entry>
+        <title type="html"><![CDATA[diagrams.net (drawio) 绘图]]></title>
+        <id>https://simplysu.github.io/post/drawio/</id>
+        <link href="https://simplysu.github.io/post/drawio/">
+        </link>
+        <updated>2021-01-29T07:50:51.000Z</updated>
+        <summary type="html"><![CDATA[<div align="left" style="float: left;margin-right: 10px;margin-top: 14px"><img src="../../post-images/1611908481741.png" width = "120" height = "120"/></div>
+<h2 id="diagramsnetdrawio"><strong>diagrams.net（drawio）</strong> 🔥</h2>
+<p>开发者 <a href="https://www.diagrams.net">diagrams.net</a>  | <a href="https://app.diagrams.net/">Web版开始</a> | <a href="https://github.com/jgraph/drawio-desktop/releases/">桌面版下载</a> | <a href="https://github.com/jgraph/drawio">源码</a></p>
+<p>diagrams.net is a secure, free and open source diagramming app that you can use online, offline (desktop).</p>
+<p><em><strong>Translate：</strong></em> diagrams.net是一个安全，免费和开源的绘图应用程序，您可以在线，离线（桌面）使用。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Web：IE 11 / Chrome 70+ /  Firefox 70+ / Safari 11+ / Opera 50+ / Native Android browser 7x+<br>
+Desktop：Windows / macOS / Linux / Google Chrome OS</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>流程图、UML图的不二选择，开源小巧，功能强大，支持Web版和桌面版，以前名字为 draw.io</p>
+]]></summary>
+        <content type="html"><![CDATA[<div align="left" style="float: left;margin-right: 10px;margin-top: 14px"><img src="../../post-images/1611908481741.png" width = "120" height = "120"/></div>
+<h2 id="diagramsnetdrawio"><strong>diagrams.net（drawio）</strong> 🔥</h2>
+<p>开发者 <a href="https://www.diagrams.net">diagrams.net</a>  | <a href="https://app.diagrams.net/">Web版开始</a> | <a href="https://github.com/jgraph/drawio-desktop/releases/">桌面版下载</a> | <a href="https://github.com/jgraph/drawio">源码</a></p>
+<p>diagrams.net is a secure, free and open source diagramming app that you can use online, offline (desktop).</p>
+<p><em><strong>Translate：</strong></em> diagrams.net是一个安全，免费和开源的绘图应用程序，您可以在线，离线（桌面）使用。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Web：IE 11 / Chrome 70+ /  Firefox 70+ / Safari 11+ / Opera 50+ / Native Android browser 7x+<br>
+Desktop：Windows / macOS / Linux / Google Chrome OS</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>流程图、UML图的不二选择，开源小巧，功能强大，支持Web版和桌面版，以前名字为 draw.io</p>
+<!-- more -->
+<h3 id="官方介绍"><strong>官方介绍</strong></h3>
+<p>As a security-first diagramming app for teams, we provide the diagramming functionality, and you choose where to keep your diagram data. There are many different integrations with other platforms and applications, including Atlassian Confluence Cloud, Google Documents, Github, Microsoft Word.<br>
+<em><strong>Translate：</strong></em> 作为团队的安全第一的绘图应用程序，我们提供了绘图功能，您可以选择在何处保存图表数据。与其他平台和应用程序有许多不同的集成，包括Atlassian Confluence Cloud，Google Documents，Github，Microsoft Word。</p>
+<p>diagrams.net allows you to create a wide variety of diagrams: flow charts, mind maps, org charts, venn diagrams, infographics, network and architecture diagrams, floor plans, electrical and rack diagrams, UML diagrams and more.<br>
+<em><strong>Translate：</strong></em> diagrams.net允许您创建各种各样的图：流程图，思维导图，组织图，维恩图，信息图，网络和体系结构图，平面图，电气和机架图，UML图等。</p>
+<p>Diagramming is not like painting with brushes as if you were editing a photo. Instead, you place diagram elements then resize, rotate, and connect them together and change their styles.<br>
+<em><strong>Translate：</strong></em> 绘制图形并不像用画笔绘画一样，就像在编辑照片一样。相反，您可以放置​​图元素，然后调整其大小，旋转并将它们连接在一起并更改其样式。<br>
+……<br>
+<a href="https://www.diagrams.net/">更多故事请访问官网 👉</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kate 多文档文本编辑器]]></title>
         <id>https://simplysu.github.io/post/kate/</id>
