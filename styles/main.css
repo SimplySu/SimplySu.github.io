@@ -1920,3 +1920,12 @@ code::-webkit-scrollbar-thumb:hover {
           background-color: #ffffff!important;
         }
          
+      /** 首页子文章版面样式**/
+.gt-bg-theme-color-second {
+  border-bottom: dashed 1px rgba(245,186,178,0.4);
+}
+/** 首页子文章版面-最后一个样式**/
+.post-inner div:last-child {
+  border-bottom: unset;
+}
+    
