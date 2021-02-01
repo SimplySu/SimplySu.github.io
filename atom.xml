@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simplysu.github.io</id>
     <title>Pure.site</title>
-    <updated>2021-02-01T03:36:27.555Z</updated>
+    <updated>2021-02-01T11:57:28.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simplysu.github.io"/>
     <link rel="self" href="https://simplysu.github.io/atom.xml"/>
@@ -10,6 +10,49 @@
     <logo>https://simplysu.github.io/images/avatar.png</logo>
     <icon>https://simplysu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Pure.site</rights>
+    <entry>
+        <title type="html"><![CDATA[typora Markdown文本编辑器]]></title>
+        <id>https://simplysu.github.io/post/typora/</id>
+        <link href="https://simplysu.github.io/post/typora/">
+        </link>
+        <updated>2021-02-01T11:33:57.000Z</updated>
+        <summary type="html"><![CDATA[<img src="../../post-images/1612179443273.png" width = "128" height = "128" div align=left />
+<h2 id="typora"><strong>typora</strong> 🔥</h2>
+<p>开发者 <a href="https://typora.io/" target="_blank">typora</a> |  <a href="https://typora.io/#download" target="_blank">下载</a></p>
+<p>A minimal Markdown editor and reader.</p>
+<p><em><strong>Translate：</strong></em> 简洁的 Markdown 编辑器和阅读器。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Linux  / Windows / macOS</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>美观，快捷，支持多种主题样式，Markdown首选，赞！</p>
+]]></summary>
+        <content type="html"><![CDATA[<img src="../../post-images/1612179443273.png" width = "128" height = "128" div align=left />
+<h2 id="typora"><strong>typora</strong> 🔥</h2>
+<p>开发者 <a href="https://typora.io/" target="_blank">typora</a> |  <a href="https://typora.io/#download" target="_blank">下载</a></p>
+<p>A minimal Markdown editor and reader.</p>
+<p><em><strong>Translate：</strong></em> 简洁的 Markdown 编辑器和阅读器。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Linux  / Windows / macOS</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>美观，快捷，支持多种主题样式，Markdown首选，赞！</p>
+<!-- more -->
+<h3 id="官方介绍"><strong>官方介绍</strong></h3>
+<p><strong>Readable &amp; Writable</strong><br>
+Typora gives you a seamless experience as both a reader and a writer. It removes the preview window, mode switcher, syntax symbols of markdown source code, and all other unnecessary distractions. Instead, it provides a real live preview feature to help you concentrate on the content itself.<br>
+<em><strong>Translate：</strong></em> 可读可写<br>
+Typora 给您既是读者又是作家的无缝体验。它删除了预览窗口，模式切换器，降价源代码的语法符号以及所有其他不必要的干扰。相反，它提供了真正的实时预览功能，可帮助您专注于内容本身。</p>
+<p><strong>Simple, yet Powerful</strong><br>
+Images,Headers,Lists,Tables,Code Fences,Mathematics,Diagrams,Inline Styles.etc..<br>
+<em><strong>Translate：</strong></em> 简单而强大<br>
+支持插入图片，标题，列表，表格，代码，数学公式，图表。等等..</p>
+<p><strong>Accessibility</strong><br>
+YOU FOCUS ON THE CONTENT, TYPORA HELPS WITH THE REST<br>
+<em><strong>Translate：</strong></em> 辅助功能<br>
+您专注于内容，TYPORA助您一臂之力</p>
+<p>……<br>
+<a href="https://typora.io/" target="_blank">更多故事请访问官网 👉</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[calibre 电子书管理]]></title>
         <id>https://simplysu.github.io/post/calibre/</id>
