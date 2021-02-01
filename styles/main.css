@@ -1921,7 +1921,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
          
       /** 首页子文章版面样式**/
-.gt-bg-theme-color-second {
+.post-inner>div {
   border-bottom: dashed 1px rgba(245,186,178,0.4);
 }
 /** 首页子文章版面-最后一个样式**/
