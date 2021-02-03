@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simplysu.github.io</id>
     <title>Sure.site</title>
-    <updated>2021-02-03T02:04:46.796Z</updated>
+    <updated>2021-02-03T02:42:42.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simplysu.github.io"/>
     <link rel="self" href="https://simplysu.github.io/atom.xml"/>
@@ -10,6 +10,55 @@
     <logo>https://simplysu.github.io/images/avatar.png</logo>
     <icon>https://simplysu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Sure.site</rights>
+    <entry>
+        <title type="html"><![CDATA[GIMP图片编辑器]]></title>
+        <id>https://simplysu.github.io/post/gimp/</id>
+        <link href="https://simplysu.github.io/post/gimp/">
+        </link>
+        <updated>2021-02-03T02:11:43.000Z</updated>
+        <summary type="html"><![CDATA[<img src="../../post-images/1612318814676.png" width = "128" height = "128" div align=left />
+<h2 id="gimp"><strong>GIMP</strong> 🔥</h2>
+<p>开发者 <a href="https://www.gimp.org/team.html" target="_blank">The GIMP Team</a> |  <a href="https://www.gimp.org/downloads/" target="_blank">下载</a> | <a href="https://gitlab.gnome.org/GNOME/gimp" target="_blank">源码</a></p>
+<p>GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.</p>
+<p><em><strong>Translate：</strong></em> GIMP是可用于GNU / Linux，OS X，Windows和更多操作系统的跨平台图像编辑器。它是免费软件，您可以更改其源代码并分发您的更改。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Linux  / Windows / macOS</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>免费图片编辑器，功能强大！</p>
+]]></summary>
+        <content type="html"><![CDATA[<img src="../../post-images/1612318814676.png" width = "128" height = "128" div align=left />
+<h2 id="gimp"><strong>GIMP</strong> 🔥</h2>
+<p>开发者 <a href="https://www.gimp.org/team.html" target="_blank">The GIMP Team</a> |  <a href="https://www.gimp.org/downloads/" target="_blank">下载</a> | <a href="https://gitlab.gnome.org/GNOME/gimp" target="_blank">源码</a></p>
+<p>GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.</p>
+<p><em><strong>Translate：</strong></em> GIMP是可用于GNU / Linux，OS X，Windows和更多操作系统的跨平台图像编辑器。它是免费软件，您可以更改其源代码并分发您的更改。</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Linux  / Windows / macOS</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>免费图片编辑器，功能强大！</p>
+<!-- more -->
+<h3 id="官方介绍"><strong>官方介绍</strong></h3>
+<p>Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins.<br>
+<em><strong>Translate：</strong></em> 无论您是平面设计师，摄影师，插图画家还是科学家，GIMP都能为您提供完善的工具来完成您的工作。借助许多自定义选项和第三方插件，您可以使用GIMP进一步提高生产力。</p>
+<p><strong>High Quality Photo Manipulation</strong><br>
+GIMP provides the tools needed for high quality image manipulation. From retouching to restoring to creative composites, the only limit is your imagination.<br>
+<em><strong>Translate：</strong></em> 高质量照片处理<br>
+GIMP提供了高质量图像处理所需的工具。从修饰到还原再到创意合成，唯一的限制就是您的想象力。</p>
+<p><strong>Original Artwork Creation</strong><br>
+GIMP gives artists the power and flexibility to transform images into truly unique creations.<br>
+<em><strong>Translate：</strong></em> 原创作品创作<br>
+GIMP为艺术家提供了将图像转换成真正独特作品的能力和灵活性。</p>
+<p>Graphic Design Elements<br>
+GIMP is used for producing icons, graphical design elements, and art for user interface components and mockups.<br>
+<em><strong>Translate：</strong></em> 平面设计元素<br>
+GIMP用于生成图标，图形设计元素以及用于用户界面组件和模型的艺术品。</p>
+<p>Programming Algorithms<br>
+GIMP is a high quality framework for scripted image manipulation, with multi-language support such as C, C++, Perl, Python, Scheme, and more!<br>
+<em><strong>Translate：</strong></em> 编程算法<br>
+GIMP是用于脚本图像处理的高质量框架，具有多语言支持，例如C，C ++，Perl，Python，Scheme等！</p>
+<p>……<br>
+<a href="https://www.gimp.org/" target="_blank">更多故事请访问官网 👉</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[typora Markdown文本编辑器]]></title>
         <id>https://simplysu.github.io/post/typora/</id>
