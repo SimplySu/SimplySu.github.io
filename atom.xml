@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simplysu.github.io</id>
-    <title>Pure.site</title>
-    <updated>2021-02-01T12:23:23.946Z</updated>
+    <title>Sure.site</title>
+    <updated>2021-02-03T02:04:46.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simplysu.github.io"/>
     <link rel="self" href="https://simplysu.github.io/atom.xml"/>
     <subtitle>如若天地  · 武破虚空</subtitle>
     <logo>https://simplysu.github.io/images/avatar.png</logo>
     <icon>https://simplysu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Pure.site</rights>
+    <rights>All rights reserved 2021, Sure.site</rights>
     <entry>
         <title type="html"><![CDATA[typora Markdown文本编辑器]]></title>
         <id>https://simplysu.github.io/post/typora/</id>
