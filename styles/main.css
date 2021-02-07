@@ -1928,4 +1928,10 @@ code::-webkit-scrollbar-thumb:hover {
 .post-inner div:last-child {
   border-bottom: unset;
 }
+/** 音乐歌词显示 **/
+.music_lyric {
+    border-radius: 3px;
+    box-shadow: 0 0 1px rgb(67 90 111 / 47%), 0 2px 4px -2px rgb(67 90 111 / 30%);
+    padding: 10px;
+}
     
