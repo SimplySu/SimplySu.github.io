@@ -1934,4 +1934,14 @@ code::-webkit-scrollbar-thumb:hover {
     box-shadow: 0 0 1px rgb(67 90 111 / 47%), 0 2px 4px -2px rgb(67 90 111 / 30%);
     padding: 10px;
 }
+/** 音乐图片显示 **/
+.music_picture {
+    border-radius: 6px;
+    box-shadow: 0 0 1px rgb(67 90 111 / 47%), 0 2px 4px -2px rgb(67 90 111 / 30%);
+}
+/** 音乐图片显示div **/
+.music_picture_div {
+    float: left;
+    margin-right: 12px;
+}
     
