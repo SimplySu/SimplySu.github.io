@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simplysu.github.io</id>
     <title>Sure.site</title>
-    <updated>2021-03-08T06:16:56.427Z</updated>
+    <updated>2021-03-08T06:55:41.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simplysu.github.io"/>
     <link rel="self" href="https://simplysu.github.io/atom.xml"/>
@@ -10,6 +10,91 @@
     <logo>https://simplysu.github.io/images/avatar.png</logo>
     <icon>https://simplysu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Sure.site</rights>
+    <entry>
+        <title type="html"><![CDATA[Code Compare]]></title>
+        <id>https://simplysu.github.io/post/code-compare/</id>
+        <link href="https://simplysu.github.io/post/code-compare/">
+        </link>
+        <updated>2021-03-08T06:27:12.000Z</updated>
+        <summary type="html"><![CDATA[<img src="../../post-images/1615184899399.svg" width = "128" height = "128" div align=left />
+<h2 id="code-compare"><strong>Code Compare</strong> 🔥</h2>
+<p>开发者 <a href="https://www.devart.com/" target="_blank">devart</a> |  <a href="https://www.devart.com/codecompare/download.html" target="_blank">下载</a> | 源码：not open | 免费版 + 专业版</p>
+<p>Code Compare is a free compare tool designed to compare and merge differing files and folders. Code Compare integrates with all popular source control systems: TFS, SVN, Git, Mercurial, and Perforce. Code Compare is shipped both as a standalone file diff tool and a Visual Studio extension. Download Devart Code Compare and manage code changes with ease!</p>
+<p><em><strong>Translate：</strong></em> Code Compare 是一个免费的比较工具，旨在比较和合并不同的文件和文件夹。 Code Compare 与所有流行的源代码控制系统集成：TFS，SVN，Git，Mercurial和Perforce。 Code Compare 既作为独立文件差异工具提供，又作为 Visual Studio 扩展提供。下载 Devart 代码轻松比较和管理代码更改！</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Windows</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>免费版可以完成基本的文件比较功能，并且无版权及时间限制，相对于付费的Beyond Compare，是windows下一个不错的选择！</p>
+]]></summary>
+        <content type="html"><![CDATA[<img src="../../post-images/1615184899399.svg" width = "128" height = "128" div align=left />
+<h2 id="code-compare"><strong>Code Compare</strong> 🔥</h2>
+<p>开发者 <a href="https://www.devart.com/" target="_blank">devart</a> |  <a href="https://www.devart.com/codecompare/download.html" target="_blank">下载</a> | 源码：not open | 免费版 + 专业版</p>
+<p>Code Compare is a free compare tool designed to compare and merge differing files and folders. Code Compare integrates with all popular source control systems: TFS, SVN, Git, Mercurial, and Perforce. Code Compare is shipped both as a standalone file diff tool and a Visual Studio extension. Download Devart Code Compare and manage code changes with ease!</p>
+<p><em><strong>Translate：</strong></em> Code Compare 是一个免费的比较工具，旨在比较和合并不同的文件和文件夹。 Code Compare 与所有流行的源代码控制系统集成：TFS，SVN，Git，Mercurial和Perforce。 Code Compare 既作为独立文件差异工具提供，又作为 Visual Studio 扩展提供。下载 Devart 代码轻松比较和管理代码更改！</p>
+<h3 id="系统支持"><strong>系统支持</strong></h3>
+<p>Windows</p>
+<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
+<p>免费版可以完成基本的文件比较功能，并且无版权及时间限制，相对于付费的Beyond Compare，是windows下一个不错的选择！</p>
+<!-- more -->
+<h3 id="官方介绍"><strong>官方介绍</strong></h3>
+<p><strong>Text Comparison and Merging</strong><br>
+Colored blocks for inserted, deleted, and modified text<br>
+Detailed highlighting of changes within lines<br>
+Collapsing of unchanged text regions (CodeCompare Pro-feature)<br>
+Point-and-click merge with a mouse<br>
+Editing files on the fly with a reliable file compare tool<br>
+Merging shortcuts for advanced users<br>
+<em><strong>Translate：</strong></em> 文字比较与合并<br>
+插入，删除和修改的文本的彩色块 详细突出显示行中的更改<br>
+折叠未更改的文本区域（Pro-feature版） 用鼠标点击合并 使用可靠的文件比较工具即时编辑文件<br>
+合并高级用户的快捷方式</p>
+<p><strong>Semantic Source Code Comparison</strong><br>
+Structure comparison mode - comparing sources via their signature and not only by their location.<br>
+Lexical comparison from major programming languages – C#, C++, Visual Basic, JavaScript, Java, XML<br>
+Syntax highlighting for programming languages<br>
+Matching methods in compared source code files<br>
+Similar lines of code are matched even after refactoring<br>
+Detecting moved blocks of code if source code is reordered in files<br>
+Displaying changes in code structure in Difference Explorer<br>
+Code outlining for collapsing and expanding regions of code<br>
+<em><strong>Translate：</strong></em> 语义源代码比较<br>
+结构比较模式-通过源的签名而不是仅通过位置来比较源。 主要编程语言的词法比较-C＃，C ++，Visual Basic，JavaScript，Java，XML  编程语言的语法突出显示<br>
+比较后的源代码文件中的匹配方法  即使在重构后，相似的代码行也会匹配 如果源代码在文件中重新排序，则检测移动的代码块 在差分资源管理器中显示代码结构的更改 代码概述，用于折叠和扩展代码区域</p>
+<p><strong>Folder Сomparison</strong><br>
+Advanced diff directories compare utility<br>
+Color-coding for added, deleted, and modified files<br>
+Filtering options for excluding or including certain file types<br>
+Instant opening of individual file comparison documents<br>
+Display options for better comparison result analysis<br>
+Batch file copying from pane to pane or to a selected folder<br>
+<em><strong>Translate：</strong></em> 文件夹比较<br>
+先进的差异目录比较实用程序 对添加，删除和修改的文件进行颜色编码排除或包括某些文件类型的过滤选项<br>
+即时打开单个文件比较文件 显示选项，以更好地比较结果分析 批处理文件从窗格复制到窗格或复制到选定的文件夹</p>
+<p><strong>Visual Studio Integration</strong><br>
+Compare code without leaving your favourite environment<br>
+Native Visual Studio extension for smooth integration<br>
+Visual Studio 2015, 2017, and 2019 supported<br>
+Choose to use standalone or integrated Code Compare on the fly<br>
+Link Code Compare to Android Studio as an external tool to compare and merge code<br>
+<em><strong>Translate：</strong></em> Visual Studio集成<br>
+在不离开您喜欢的环境的情况下比较代码 本机Visual Studio扩展可实现平滑集成<br>
+支持Visual Studio 2015、2017和2019 选择动态使用独立代码或集成代码比较<br>
+将Code Compare to Android Studio链接为外部工具，以比较和合并代码</p>
+<p><strong>Version Сontrol Integration</strong><br>
+Colored blocks for inserted, deleted, and modified text<br>
+Integrates with version control systems as the merging tool for conflicting file revisions<br>
+Non-conflicting changes are merged automatically<br>
+Merging conflicts are highlighted<br>
+One-click conflict resolution with a mouse button<br>
+Three-way comparison to compare and merge three files side-by-side<br>
+<em><strong>Translate：</strong></em> 版本控制集成<br>
+插入，删除和修改的文本的彩色块 与版本控制系统集成，作为用于冲突文件修订的合并工具<br>
+无冲突的更改会自动合并 合并冲突突出显示 用鼠标按钮一键解决冲突<br>
+三向比较可并排比较和合并三个文件</p>
+<p>……<br>
+<a href="https://www.devart.com/codecompare/" target="_blank">更多故事请访问官网 👉</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎵 启]]></title>
         <id>https://simplysu.github.io/post/qi/</id>
@@ -553,47 +638,6 @@ KWrite is a simple text editor application, allowing you to edit one file at the
 <em><strong>Translate：</strong></em> KWrite是一个简单的文本编辑器应用程序，可让您在每个窗口一次编辑一个文件。与Kate一样，KWrite使用编辑器组件KatePart.KWrite只是为选定的编辑器组件提供一个窗口框架，并允许您打开和保存文档。 KWrite共享KatePart提供的所有功能，请单击此处以获取概述。<br>
 ……<br>
 <a href="https://kate-editor.org/" target="_blank">更多故事请访问官网 👉</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notepad3快速轻量级文本编辑器]]></title>
-        <id>https://simplysu.github.io/post/notepad3/</id>
-        <link href="https://simplysu.github.io/post/notepad3/">
-        </link>
-        <updated>2021-01-28T09:23:53.000Z</updated>
-        <summary type="html"><![CDATA[<img src="../../post-images/1611829890405.png" width = "128" height = "128" div align=left />
-<h2 id="nodepad3"><strong>Nodepad3</strong> 🔥</h2>
-<p>开发者 <a href="https://www.rizonesoft.com" target="_blank">Rizonesoft</a>  |  <a href="https://www.rizonesoft.com/downloads/notepad3/" target="_blank">下载</a> | <a href="https://github.com/rizonesoft/Notepad3" target="_blank">源码</a></p>
-<p>We created Notepad3 with all the features that the default Windows Notepad currently lacks. Notepad3 is a fast and light-weight Scintilla-based text editor with syntax highlighting. It has a small memory footprint, but is powerful enough to handle most programming jobs.</p>
-<p><em><strong>Translate：</strong></em> 我们使用默认的 Windows 记事本当前缺少的所有功能创建了 Notepad3。 Notepad3 是基于Scintilla 的快速轻量级文本编辑器，具有语法突出显示功能。 它的内存占用量很小，但功能强大，足以处理大多数编程工作。</p>
-<h3 id="系统支持"><strong>系统支持</strong></h3>
-<p>Windows</p>
-<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
-<p>简洁、开源、非常实用的搜索查找功能<br>
-完美替换系统 Windows Notepad，满足记事本的需求，五星推荐</p>
-]]></summary>
-        <content type="html"><![CDATA[<img src="../../post-images/1611829890405.png" width = "128" height = "128" div align=left />
-<h2 id="nodepad3"><strong>Nodepad3</strong> 🔥</h2>
-<p>开发者 <a href="https://www.rizonesoft.com" target="_blank">Rizonesoft</a>  |  <a href="https://www.rizonesoft.com/downloads/notepad3/" target="_blank">下载</a> | <a href="https://github.com/rizonesoft/Notepad3" target="_blank">源码</a></p>
-<p>We created Notepad3 with all the features that the default Windows Notepad currently lacks. Notepad3 is a fast and light-weight Scintilla-based text editor with syntax highlighting. It has a small memory footprint, but is powerful enough to handle most programming jobs.</p>
-<p><em><strong>Translate：</strong></em> 我们使用默认的 Windows 记事本当前缺少的所有功能创建了 Notepad3。 Notepad3 是基于Scintilla 的快速轻量级文本编辑器，具有语法突出显示功能。 它的内存占用量很小，但功能强大，足以处理大多数编程工作。</p>
-<h3 id="系统支持"><strong>系统支持</strong></h3>
-<p>Windows</p>
-<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
-<p>简洁、开源、非常实用的搜索查找功能<br>
-完美替换系统 Windows Notepad，满足记事本的需求，五星推荐</p>
-<!-- more -->
-<h3 id="路线"><strong>路线</strong></h3>
-<p>📝 Notepad -&gt;<a href="https://www.flos-freeware.ch/notepad2.html" target="_blank">Notepad2</a> -&gt; <a href="https://www.rizonesoft.com/downloads/notepad3/" target="_blank">Notepad3</a></p>
-<h3 id="官方介绍"><strong>官方介绍</strong></h3>
-<p>Although the Windows operating system was updated significantly over the past years.  However, the default Windows Notepad has not been updated in 20 years. If you need a text editor for simple programming tasks, using the vanilla Windows Notepad just does not cut it.<br>
-<em><strong>Translate：</strong></em> 尽管 Windows 操作系统在过去几年中已进行了重大更新。但是，默认的 Windows 记事本在 20 年内没有更新。如果您需要使用文本编辑器来执行简单的编程任务，则使用 vanilla Windows 记事本就不会剪切它。</p>
-<p>Therefore, we created Notepad3 with all the features that the default Windows Notepad currently lacks. Notepad3 is a fast and light-weight Scintilla-based text editor with syntax highlighting. It has a small memory footprint but is powerful enough to handle most programming jobs without breaking a sweat.<br>
-<em><strong>Translate：</strong></em> 因此，我们使用默认的 Windows 记事本当前缺少的所有功能创建了 Notepad3。 Notepad3 是基于Scintilla 的快速轻量级文本编辑器，具有语法突出显示功能。它具有较小的内存占用空间，但功能强大，足以处理大多数编程工作，而不会费力。</p>
-<p>Notepad3 is based on code from the awesome Notepad2 by Florian Balmer and Notepad2-mod by XhmikosR.<br>
-<em><strong>Translate：</strong></em> Notepad3 基于 Florian Balmer 出色的 Notepad2 和 XhmikosR 的 Notepad2-mod 的代码。<br>
-……<br>
-<a href="https://www.rizonesoft.com/downloads/notepad3/" target="_blank">更多故事请访问官网 👉</a></p>
 ]]></content>
     </entry>
 </feed>
