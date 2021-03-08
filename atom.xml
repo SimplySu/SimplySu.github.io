@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simplysu.github.io</id>
     <title>Sure.site</title>
-    <updated>2021-03-08T06:57:24.624Z</updated>
+    <updated>2021-03-08T07:03:12.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simplysu.github.io"/>
     <link rel="self" href="https://simplysu.github.io/atom.xml"/>
@@ -45,8 +45,8 @@ Point-and-click merge with a mouse<br>
 Editing files on the fly with a reliable file compare tool<br>
 Merging shortcuts for advanced users<br>
 <em><strong>Translate：</strong></em> 文字比较与合并<br>
-插入，删除和修改的文本的彩色块 详细突出显示行中的更改<br>
-折叠未更改的文本区域（Pro-feature版） 用鼠标点击合并 使用可靠的文件比较工具即时编辑文件<br>
+插入，删除和修改的文本的彩色块 / 详细突出显示行中的更改<br>
+折叠未更改的文本区域（Pro-feature版） / 用鼠标点击合并 / 使用可靠的文件比较工具即时编辑文件<br>
 合并高级用户的快捷方式</p>
 <p><strong>Semantic Source Code Comparison</strong><br>
 Structure comparison mode - comparing sources via their signature and not only by their location.<br>
@@ -58,8 +58,9 @@ Detecting moved blocks of code if source code is reordered in files<br>
 Displaying changes in code structure in Difference Explorer<br>
 Code outlining for collapsing and expanding regions of code<br>
 <em><strong>Translate：</strong></em> 语义源代码比较<br>
-结构比较模式-通过源的签名而不是仅通过位置来比较源。 主要编程语言的词法比较-C＃，C ++，Visual Basic，JavaScript，Java，XML  编程语言的语法突出显示<br>
-比较后的源代码文件中的匹配方法  即使在重构后，相似的代码行也会匹配 如果源代码在文件中重新排序，则检测移动的代码块 在差分资源管理器中显示代码结构的更改 代码概述，用于折叠和扩展代码区域</p>
+结构比较模式-通过源的签名而不是仅通过位置来比较源 /<br>
+主要编程语言的词法比较-C＃，C ++，Visual Basic，JavaScript，Java，XML  编程语言的语法突出显示<br>
+比较后的源代码文件中的匹配方法 / 即使在重构后，相似的代码行也会匹配 / 如果源代码在文件中重新排序，则检测移动的代码块 / 在差分资源管理器中显示代码结构的更改 / 代码概述，用于折叠和扩展代码区域</p>
 <p><strong>Folder Сomparison</strong><br>
 Advanced diff directories compare utility<br>
 Color-coding for added, deleted, and modified files<br>
@@ -68,8 +69,8 @@ Instant opening of individual file comparison documents<br>
 Display options for better comparison result analysis<br>
 Batch file copying from pane to pane or to a selected folder<br>
 <em><strong>Translate：</strong></em> 文件夹比较<br>
-先进的差异目录比较实用程序 对添加，删除和修改的文件进行颜色编码排除或包括某些文件类型的过滤选项<br>
-即时打开单个文件比较文件 显示选项，以更好地比较结果分析 批处理文件从窗格复制到窗格或复制到选定的文件夹</p>
+先进的差异目录比较实用程序 / 对添加，删除和修改的文件进行颜色编码  / 排除或包括某些文件类型的过滤选项<br>
+即时打开单个文件比较文件 / 显示选项，以更好地比较结果分析 / 批处理文件从窗格复制到窗格或复制到选定的文件夹</p>
 <p><strong>Visual Studio Integration</strong><br>
 Compare code without leaving your favourite environment<br>
 Native Visual Studio extension for smooth integration<br>
@@ -88,8 +89,8 @@ Merging conflicts are highlighted<br>
 One-click conflict resolution with a mouse button<br>
 Three-way comparison to compare and merge three files side-by-side<br>
 <em><strong>Translate：</strong></em> 版本控制集成<br>
-插入，删除和修改的文本的彩色块 与版本控制系统集成，作为用于冲突文件修订的合并工具<br>
-无冲突的更改会自动合并 合并冲突突出显示 用鼠标按钮一键解决冲突<br>
+插入，删除和修改的文本的彩色块 / 与版本控制系统集成，作为用于冲突文件修订的合并工具<br>
+无冲突的更改会自动合并 / 合并冲突突出显示 / 用鼠标按钮一键解决冲突<br>
 三向比较可并排比较和合并三个文件</p>
 <p>……<br>
 <a href="https://www.devart.com/codecompare/" target="_blank">更多故事请访问官网 👉</a></p>
