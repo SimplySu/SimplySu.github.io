@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simplysu.github.io</id>
     <title>Sure.site</title>
-    <updated>2021-03-08T07:59:04.624Z</updated>
+    <updated>2021-03-20T10:49:06.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simplysu.github.io"/>
     <link rel="self" href="https://simplysu.github.io/atom.xml"/>
@@ -10,6 +10,59 @@
     <logo>https://simplysu.github.io/images/avatar.png</logo>
     <icon>https://simplysu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Sure.site</rights>
+    <entry>
+        <title type="html"><![CDATA[🎵 心经]]></title>
+        <id>https://simplysu.github.io/post/soul/</id>
+        <link href="https://simplysu.github.io/post/soul/">
+        </link>
+        <updated>2021-03-20T10:29:42.000Z</updated>
+        <summary type="html"><![CDATA[<div class="music_picture_div"><img src="../../post-images/1616236230973.jpg" class="music_picture"/></div>
+<h2 id="心经">🎵 <strong>心经</strong></h2>
+<p>💡 心经<br>
+🎤 <a href="https://music.163.com/artist?id=6487" target="_blank">张智霖</a> / <a href="https://music.163.com/artist?id=9621" target="_blank">王菲</a><br>
+📀 <a href="https://music.163.com/#/album?id=513548" target="_blank">心经</a></p>
+<blockquote>
+<p>一般人都觉得佛经难诵念，不容易得以普及化。现在机缘成熟，得蒙众歌星齐发大悲心，将《心经》演唱成流行曲，广结善缘。更得到各有关机构，各唱片公司，各位大德的鼎力支持，不取分文，兼且出资出力，令这套《心经》流行版得以顺利灌录完成。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<div class="music_picture_div"><img src="../../post-images/1616236230973.jpg" class="music_picture"/></div>
+<h2 id="心经">🎵 <strong>心经</strong></h2>
+<p>💡 心经<br>
+🎤 <a href="https://music.163.com/artist?id=6487" target="_blank">张智霖</a> / <a href="https://music.163.com/artist?id=9621" target="_blank">王菲</a><br>
+📀 <a href="https://music.163.com/#/album?id=513548" target="_blank">心经</a></p>
+<blockquote>
+<p>一般人都觉得佛经难诵念，不容易得以普及化。现在机缘成熟，得蒙众歌星齐发大悲心，将《心经》演唱成流行曲，广结善缘。更得到各有关机构，各唱片公司，各位大德的鼎力支持，不取分文，兼且出资出力，令这套《心经》流行版得以顺利灌录完成。</p>
+</blockquote>
+<!-- more -->
+<div align="center" class="music_lyric">
+<p></p>
+<p></p>
+<p>观自在菩萨 行深般若波罗蜜多时 照见五蕴皆空 度一切苦厄<br>
+舍利子 色不异空<br>
+空不异色<br>
+色即是空 空即是色<br>
+受想行识 亦复如是<br>
+舍利子 是诸法空相<br>
+不生不灭 不垢不净 不增不减 是故空中无色 无受想行识<br>
+无眼耳鼻舌身意 无色声香味触法 无眼界 乃至无意识界<br>
+无无明 亦无无明尽 乃至无老死 亦无老死尽<br>
+无苦集灭道 无智亦无得 以无所得故<br>
+菩提萨陀 依般若波罗蜜多故<br>
+心无挂碍 无挂碍故 无有恐怖 远离颠倒梦想<br>
+究竟涅磐 三世诸佛 依般若波罗蜜多故<br>
+得阿耨多罗三藐三菩提 故知般若波罗蜜多<br>
+是大神咒 是大明咒 是无上咒 是无等等咒<br>
+能除一切苦 真实不虚 故说般若波罗蜜多咒<br>
+即说咒曰<br>
+揭缔 揭缔 波罗揭缔 波罗僧揭缔 菩提萨婆呵<br>
+揭缔 揭缔 波罗揭缔 波罗僧揭缔 菩提萨婆呵<br>
+揭缔 揭缔 波罗揭缔 波罗僧揭缔 菩提萨婆呵<br>
+揭缔 揭缔 波罗揭缔 波罗僧揭缔 菩提萨婆呵</p>
+</div>
+<div align="center">
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=380 height=86 src="//music.163.com/outchain/player?type=2&id=5279559&auto=1&height=66"></iframe>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code Compare 比较工具]]></title>
         <id>https://simplysu.github.io/post/code-compare/</id>
@@ -598,47 +651,6 @@ Desktop：Windows / macOS / Linux / Google Chrome OS</p>
 <em><strong>Translate：</strong></em> 绘制图形并不像用画笔绘画一样，就像在编辑照片一样。相反，您可以放置​​图元素，然后调整其大小，旋转并将它们连接在一起并更改其样式。<br>
 ……<br>
 <a href="https://www.diagrams.net/" target="_blank">更多故事请访问官网 👉</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kate 多文档文本编辑器]]></title>
-        <id>https://simplysu.github.io/post/kate/</id>
-        <link href="https://simplysu.github.io/post/kate/">
-        </link>
-        <updated>2021-01-28T12:03:08.000Z</updated>
-        <summary type="html"><![CDATA[<img src="../../post-images/1611835588815.png" width = "128" height = "128" div align=left />
-<h2 id="kate"><strong>Kate</strong> 🔥</h2>
-<p>开发者 <a href="https://kate-editor.org" target="_blank">The Kate Team</a> |  <a href="https://kate-editor.org/get-it/" target="_blank">下载</a> | <a href="https://invent.kde.org/utilities/kate" target="_blank">源码</a></p>
-<p>Kate is a multi-document editor part of KDE since release 2.2. Being a KDE applications, Kate ships with network transparency, as well as integration with the outstanding features of KDE. Choose it for viewing HTML sources from konqueror, editing configuration files, writing new applications or any other text editing task. You still need just one running instance of Kate.</p>
-<p><em><strong>Translate：</strong></em> 自2.2版以来，Kate是KDE的多文档编辑器部分。作为KDE应用程序，Kate具有网络透明性以及与KDE杰出功能的集成。选择它可以查看konqueror中的HTML源，编辑配置文件，编写新应用程序或任何其他文本编辑任务。您仍然仅需要一个正在运行的Kate实例。</p>
-<h3 id="系统支持"><strong>系统支持</strong></h3>
-<p>Linux &amp; Unices / Windows / macOS</p>
-<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
-<p>界面美观、开源， 2.2之后开始集成为IDE模式，是一种不错的选择!</p>
-]]></summary>
-        <content type="html"><![CDATA[<img src="../../post-images/1611835588815.png" width = "128" height = "128" div align=left />
-<h2 id="kate"><strong>Kate</strong> 🔥</h2>
-<p>开发者 <a href="https://kate-editor.org" target="_blank">The Kate Team</a> |  <a href="https://kate-editor.org/get-it/" target="_blank">下载</a> | <a href="https://invent.kde.org/utilities/kate" target="_blank">源码</a></p>
-<p>Kate is a multi-document editor part of KDE since release 2.2. Being a KDE applications, Kate ships with network transparency, as well as integration with the outstanding features of KDE. Choose it for viewing HTML sources from konqueror, editing configuration files, writing new applications or any other text editing task. You still need just one running instance of Kate.</p>
-<p><em><strong>Translate：</strong></em> 自2.2版以来，Kate是KDE的多文档编辑器部分。作为KDE应用程序，Kate具有网络透明性以及与KDE杰出功能的集成。选择它可以查看konqueror中的HTML源，编辑配置文件，编写新应用程序或任何其他文本编辑任务。您仍然仅需要一个正在运行的Kate实例。</p>
-<h3 id="系统支持"><strong>系统支持</strong></h3>
-<p>Linux &amp; Unices / Windows / macOS</p>
-<h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
-<p>界面美观、开源， 2.2之后开始集成为IDE模式，是一种不错的选择!</p>
-<!-- more -->
-<h3 id="官方介绍"><strong>官方介绍</strong></h3>
-<p>The Kate project develops two main products: KatePart, the advanced editor component which is used in numerous KDE applications requiring a text editing component, and Kate, a MDI text editor application. In addition, we provide KWrite, a simple SDI editor shell which allows the user to select his/her favourite editor component.<br>
-<em><strong>Translate：</strong></em> Kate项目开发了两个主要产品：高级编辑器组件KatePart（用于许多需要文本编辑组件的KDE应用程序中）和Kate（MDI文本编辑器应用程序）。此外，我们提供了KWrite，这是一个简单的SDI编辑器外壳，允许用户选择他/她喜欢的编辑器组件。</p>
-<p><strong>Kate</strong><br>
-Kate is a multi-document editor part of KDE since release 2.2. Being a KDE application, Kate ships with network transparency, as well as integration with the outstanding features of KDE. Choose it for viewing HTML sources from konqueror, editing configuration files, writing new applications or any other text editing task. You still need just one running instance of Kate.</p>
-<p>With a multi-view editor like Kate you get a lot of advantages. You can view several instances of the same document and all instances are synchronized. Or you can view more files at the same time for easy reference or simultaneous editing.<br>
-<em><strong>Translate：</strong></em> 自2.2版以来，Kate是KDE的多文档编辑器部分。作为KDE应用程序，Kate附带了网络透明性以及与KDE杰出功能的集成。选择它可以查看konqueror中的HTML源，编辑配置文件，编写新应用程序或任何其他文本编辑任务。您仍然仅需要一个正在运行的Kate实例。</p>
-<p>使用像Kate这样的多视图编辑器，您将获得很多好处。您可以查看同一文档的多个实例，并且所有实例都已同步。或者，您可以同时查看更多文件，以方便参考或同时进行编辑。</p>
-<p><strong>KWrite</strong><br>
-KWrite is a simple text editor application, allowing you to edit one file at the time per window. As Kate, KWrite uses the editor component KatePart.KWrite simply provides the selected editor component with a window frame, and lets you open and save documents. KWrite shares all features the KatePart provides, look here to get an overview.<br>
-<em><strong>Translate：</strong></em> KWrite是一个简单的文本编辑器应用程序，可让您在每个窗口一次编辑一个文件。与Kate一样，KWrite使用编辑器组件KatePart.KWrite只是为选定的编辑器组件提供一个窗口框架，并允许您打开和保存文档。 KWrite共享KatePart提供的所有功能，请单击此处以获取概述。<br>
-……<br>
-<a href="https://kate-editor.org/" target="_blank">更多故事请访问官网 👉</a></p>
 ]]></content>
     </entry>
 </feed>
