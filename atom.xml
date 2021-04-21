@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simplysu.github.io</id>
     <title>Sure.site</title>
-    <updated>2021-04-21T12:42:31.319Z</updated>
+    <updated>2021-04-21T12:43:17.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simplysu.github.io"/>
     <link rel="self" href="https://simplysu.github.io/atom.xml"/>
@@ -33,35 +33,7 @@
 <blockquote>
 <p>一般人都觉得佛经难诵念，不容易得以普及化。现在机缘成熟，得蒙众歌星齐发大悲心，将《心经》演唱成流行曲，广结善缘。更得到各有关机构，各唱片公司，各位大德的鼎力支持，不取分文，兼且出资出力，令这套《心经》流行版得以顺利灌录完成。</p>
 </blockquote>
-<!-- more -->
-<div align="center" class="music_lyric">
-<p></p>
-<p></p>
-<p>观自在菩萨 行深般若波罗蜜多时 照见五蕴皆空 度一切苦厄<br>
-舍利子 色不异空<br>
-空不异色<br>
-色即是空 空即是色<br>
-受想行识 亦复如是<br>
-舍利子 是诸法空相<br>
-不生不灭 不垢不净 不增不减 是故空中无色 无受想行识<br>
-无眼耳鼻舌身意 无色声香味触法 无眼界 乃至无意识界<br>
-无无明 亦无无明尽 乃至无老死 亦无老死尽<br>
-无苦集灭道 无智亦无得 以无所得故<br>
-菩提萨陀 依般若波罗蜜多故<br>
-心无挂碍 无挂碍故 无有恐怖 远离颠倒梦想<br>
-究竟涅磐 三世诸佛 依般若波罗蜜多故<br>
-得阿耨多罗三藐三菩提 故知般若波罗蜜多<br>
-是大神咒 是大明咒 是无上咒 是无等等咒<br>
-能除一切苦 真实不虚 故说般若波罗蜜多咒<br>
-即说咒曰<br>
-揭缔 揭缔 波罗揭缔 波罗僧揭缔 菩提萨婆呵<br>
-揭缔 揭缔 波罗揭缔 波罗僧揭缔 菩提萨婆呵<br>
-揭缔 揭缔 波罗揭缔 波罗僧揭缔 菩提萨婆呵<br>
-揭缔 揭缔 波罗揭缔 波罗僧揭缔 菩提萨婆呵</p>
-</div>
-<div align="center">
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=380 height=86 src="//music.163.com/outchain/player?type=2&id=5279559&auto=1&height=66"></iframe>
-</div>]]></content>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Code Compare 比较工具]]></title>
@@ -88,65 +60,6 @@
 <p>Windows</p>
 <h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
 <p>免费版可以完成基本的文件比较功能，并且无版权及时间限制，相对于付费的Beyond Compare，是windows下一个不错的选择！</p>
-<!-- more -->
-<h3 id="官方介绍"><strong>官方介绍</strong></h3>
-<p><strong>Text Comparison and Merging</strong><br>
-Colored blocks for inserted, deleted, and modified text<br>
-Detailed highlighting of changes within lines<br>
-Collapsing of unchanged text regions (CodeCompare Pro-feature)<br>
-Point-and-click merge with a mouse<br>
-Editing files on the fly with a reliable file compare tool<br>
-Merging shortcuts for advanced users<br>
-<em><strong>Translate：</strong></em> 文字比较与合并<br>
-插入，删除和修改的文本的彩色块 / 详细突出显示行中的更改<br>
-折叠未更改的文本区域（Pro-feature版） / 用鼠标点击合并 / 使用可靠的文件比较工具即时编辑文件<br>
-合并高级用户的快捷方式</p>
-<p><strong>Semantic Source Code Comparison</strong><br>
-Structure comparison mode - comparing sources via their signature and not only by their location.<br>
-Lexical comparison from major programming languages – C#, C++, Visual Basic, JavaScript, Java, XML<br>
-Syntax highlighting for programming languages<br>
-Matching methods in compared source code files<br>
-Similar lines of code are matched even after refactoring<br>
-Detecting moved blocks of code if source code is reordered in files<br>
-Displaying changes in code structure in Difference Explorer<br>
-Code outlining for collapsing and expanding regions of code<br>
-<em><strong>Translate：</strong></em> 语义源代码比较<br>
-结构比较模式-通过源的签名而不是仅通过位置来比较源 /<br>
-主要编程语言的词法比较-C＃，C ++，Visual Basic，JavaScript，Java，XML  编程语言的语法突出显示<br>
-比较后的源代码文件中的匹配方法 / 即使在重构后，相似的代码行也会匹配 / 如果源代码在文件中重新排序，则检测移动的代码块 / 在差分资源管理器中显示代码结构的更改 / 代码概述，用于折叠和扩展代码区域</p>
-<p><strong>Folder Сomparison</strong><br>
-Advanced diff directories compare utility<br>
-Color-coding for added, deleted, and modified files<br>
-Filtering options for excluding or including certain file types<br>
-Instant opening of individual file comparison documents<br>
-Display options for better comparison result analysis<br>
-Batch file copying from pane to pane or to a selected folder<br>
-<em><strong>Translate：</strong></em> 文件夹比较<br>
-先进的差异目录比较实用程序 / 对添加，删除和修改的文件进行颜色编码  / 排除或包括某些文件类型的过滤选项<br>
-即时打开单个文件比较文件 / 显示选项，以更好地比较结果分析 / 批处理文件从窗格复制到窗格或复制到选定的文件夹</p>
-<p><strong>Visual Studio Integration</strong><br>
-Compare code without leaving your favourite environment<br>
-Native Visual Studio extension for smooth integration<br>
-Visual Studio 2015, 2017, and 2019 supported<br>
-Choose to use standalone or integrated Code Compare on the fly<br>
-Link Code Compare to Android Studio as an external tool to compare and merge code<br>
-<em><strong>Translate：</strong></em> Visual Studio集成<br>
-在不离开您喜欢的环境的情况下比较代码 本机Visual Studio扩展可实现平滑集成<br>
-支持Visual Studio 2015、2017和2019 选择动态使用独立代码或集成代码比较<br>
-将Code Compare to Android Studio链接为外部工具，以比较和合并代码</p>
-<p><strong>Version Сontrol Integration</strong><br>
-Colored blocks for inserted, deleted, and modified text<br>
-Integrates with version control systems as the merging tool for conflicting file revisions<br>
-Non-conflicting changes are merged automatically<br>
-Merging conflicts are highlighted<br>
-One-click conflict resolution with a mouse button<br>
-Three-way comparison to compare and merge three files side-by-side<br>
-<em><strong>Translate：</strong></em> 版本控制集成<br>
-插入，删除和修改的文本的彩色块 / 与版本控制系统集成，作为用于冲突文件修订的合并工具<br>
-无冲突的更改会自动合并 / 合并冲突突出显示 / 用鼠标按钮一键解决冲突<br>
-三向比较可并排比较和合并三个文件</p>
-<p>……<br>
-<a href="https://www.devart.com/codecompare/" target="_blank">更多故事请访问官网 👉</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -174,41 +87,7 @@ Three-way comparison to compare and merge three files side-by-side<br>
 <p><a href="https://music.163.com/artist?id=13058503" target="_blank">尤长靖</a>：<br>
 撕破黑暗 找寻曙光 欢迎来到AZORAland</p>
 </blockquote>
-<!-- more -->
-<div align="center" class="music_lyric">
-<p></p>
-<p>作词 : 唐恬/尤长靖<br/>作曲 : 尤长靖<br/>编曲 : 钱雷<br/>制作人 : 钱雷 尤长靖</p>
-<p>（AZORAland language）<br>
-距离睡着还剩下多少烦恼<br>
-距离长大还差多少次跌倒<br>
-暗黑 树影 窃窃 私语 恐惧如影随形<br>
-梦境 与困境 并行<br>
-庆祝孤单 举杯遗憾 会不安也会勇敢<br>
-狂欢与绝境 我都想经历<br>
-生命是 奇遇之境<br>
-（AZORAland language）<br>
-你想要随我去看吗？<br>
-（AZORAland language）<br>
-看路的尽头有什么<br>
-去做孤星 去变成鲸<br>
-去踏上没有人听说的陆地<br>
-（AZORAland language）<br>
-笑着修行 眼泪不停 因为缺憾才懂得爱<br>
-我背着钢琴 也拖着阴影<br>
-去手写 故事剧情<br>
-（AZORAland language）<br>
-你想要随我去看吗？<br>
-（AZORAland language）<br>
-看路的尽头有什么<br>
-去做孤星 去变成鲸<br>
-去找到没有人见过的自己<br>
-（AZORAland language）<br>
-跑过森林 和荆棘 我会找到我<br>
-穿过回音 和记忆 你会遇到我</p>
-</div>
-<div align="center">
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=380 height=86 src="//music.163.com/outchain/player?type=2&id=1490342956&auto=1&height=66"></iframe>
-</div>]]></content>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎵 野孩子]]></title>
@@ -235,83 +114,7 @@ Three-way comparison to compare and merge three files side-by-side<br>
 <p><a href="https://music.163.com/#/user/home?id=51785389" target="_blank">阿细-CHEUNG</a>：<br>
 总有一个人能让你放下所有的心思，好好爱一场。️❤️希望大家喜欢这个新版本的《野孩子》</p>
 </blockquote>
-<!-- more -->
-<div align="center" class="music_lyric">
-<p></p>
-<p>原唱：杨千嬅<br/>作词 : 黄伟文<br/>作曲 : 雷颂德<br/>编曲：关天天</p>
-<p>就算只谈一场感情<br>
-除外都是一时虚荣<br>
-不等于在蜜月套房游玩过<br>
-就可自入自出仙境<br>
-情愿获得你的尊敬<br>
-承受太高傲的罪名<br>
-挤得进你臂弯 如情怀渐冷<br>
-未算孤苦也伶仃<br>
-明知爱<br>
-这种男孩子<br>
-也许只能如此<br>
-但我会成为你<br>
-最牵挂的一个女子<br>
-朝朝暮暮让你<br>
-猜想如何驯服我<br>
-若果亲手抱住<br>
-或者不必如此<br>
-许多旁人说我<br>
-不太明了男孩子<br>
-不受命令就是<br>
-一种最坏名字<br>
-笑我这个毫无办法<br>
-管束的野孩子<br>
-连没有幸福都不介意<br>
-若我依然坚持忠诚<br>
-难道你又适合安定<br>
-真可惜<br>
-说要吻我的还未吻<br>
-自己就自梦中苏醒<br>
-离场是否有点失敬<br>
-还是更轰烈的剧情<br>
-必需有这结果<br>
-才能怀念我<br>
-让我于荒野驰骋<br>
-明知爱<br>
-这种男孩子<br>
-也许只能如此<br>
-但我会成为<br>
-你最牵挂的一个女子<br>
-朝朝暮暮<br>
-让你猜想如何驯服我<br>
-若果亲手抱住<br>
-或者不必如此<br>
-许多旁人<br>
-说我不太明了男孩子<br>
-不受命令<br>
-就是一种最坏名字<br>
-笑我这个毫无办法<br>
-管束的野孩子<br>
-连没有幸福都不介意<br>
-明知爱<br>
-这种男孩子<br>
-也许只能如此<br>
-但我会成为<br>
-你最牵挂的一个女子<br>
-朝朝暮暮<br>
-让你猜想如何驯服我<br>
-若果亲手抱住<br>
-或者不必如此<br>
-许多旁人<br>
-说我不太明了男孩子<br>
-不受命令<br>
-就是一种最坏名字<br>
-我也笑我原来<br>
-是个天生的野孩子<br>
-连没有幸福都不介意<br>
-我也笑我原来<br>
-是个天生的野孩子<br>
-连没有幸福都不介意</p>
-</div>
-<div align="center">
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=380 height=86 src="//music.163.com/outchain/player?type=2&id=1416685176&auto=1&height=66"></iframe>
-</div>]]></content>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎵 所念皆星河]]></title>
@@ -342,56 +145,7 @@ Three-way comparison to compare and merge three files side-by-side<br>
 想要做一个银河交换铺<br>
 留下你们的星星愿望吧</p>
 </blockquote>
-<!-- more -->
-<div align="center" class="music_lyric">
-<p></p>
-<p>作词 : 镜千<br/>作曲 : CMJ<br/>制作人：关天天</p>
-<p>你眨了下眼睛<br>
-像夜空 闪烁的恒星<br>
-为我所有不安<br>
-找到了 指引</p>
-<p>我呢喃了一句<br>
-晚风里 出走的心绪<br>
-为你每次试探<br>
-捎去了 回应</p>
-<p>所念皆星河 辗转里反侧<br>
-你占领每个 永恒的片刻<br>
-无垠的宇宙 浩瀚的选择<br>
-你是最亮那颗</p>
-<p>所爱如月色 触手而不得<br>
-将温柔的梦 都投射<br>
-你眼里有我 对这世间的<br>
-吝啬</p>
-<p>你返航的轨迹<br>
-是所有 等待的意义<br>
-绕过多少周期<br>
-从未曾 离心</p>
-<p>多遥远的距离<br>
-都不抵 内心的亲密<br>
-周旋每段关系<br>
-认出你 身影</p>
-<p>所念皆星河 辗转里反侧<br>
-你占领每个 永恒的片刻<br>
-无垠的宇宙 浩瀚的选择<br>
-你是最亮那颗</p>
-<p>所爱如月色 触手而不得<br>
-将温柔的梦 都投射<br>
-你眼里有我 对这世间的<br>
-吝啬</p>
-<p>所念皆星河 辗转里反侧<br>
-你占领每个 永恒的片刻<br>
-无垠的宇宙 浩瀚的选择<br>
-你是最亮那颗</p>
-<p>所爱如月色 触手而不得<br>
-将温柔的梦 都投射<br>
-你眼里有我 对这世间的<br>
-吝啬<br>
-茫茫的星河 终点是你的<br>
-身侧</p>
-</div>
-<div align="center">
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=380 height=86 src="//music.163.com/outchain/player?type=2&id=1476239407&auto=1&height=66"></iframe>
-</div>]]></content>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎵 快乐出发]]></title>
@@ -416,70 +170,7 @@ Three-way comparison to compare and merge three files side-by-side<br>
 <blockquote>
 <p>快乐出发，每天都要快乐呀！</p>
 </blockquote>
-<!-- more -->
-<div align="center" class="music_lyric">
-<p></p>
-<p>作词 : 张彰<br/>作曲 : 马雪阳</p>
-<p>向快乐出发 世界那么大<br>
-任风吹雨打 梦总会到达<br>
-向快乐出发 别害怕<br>
-幸福就像天边 灿烂的晚霞<br>
-一起来吧</p>
-<p>第一缕曙光 照在我脸庞<br>
-世界 那么的晴朗<br>
-在梦想中央 要展翅飞翔<br>
-向着 心的方向<br>
-就算会受伤 有我在你身旁<br>
-快乐是 打败挫折 那份力量<br>
-用指尖画下 最美丽的期望<br>
-我喜欢 看到你的 微笑模样<br>
-向快乐出发 世界那么大<br>
-任风吹雨打 梦总会到达<br>
-向快乐出发 别害怕<br>
-幸福就像天边 灿烂的晚霞<br>
-一起来 向快乐出发 世界那么大<br>
-盛开的繁花 甜蜜的解答<br>
-向快乐出发 别害怕<br>
-不用言语表达 同样的想法<br>
-一起来吧</p>
-<p>在 我小小的胸膛 快乐不停的酝酿<br>
-希望 悄悄的 在生长 我们 不会再迷惘<br>
-曾经 还稚嫩的肩膀 变得那么的坚强<br>
-相信 快乐是 心底的阳光<br>
-第一缕曙光 照在我脸庞<br>
-世界 那么的晴朗<br>
-在梦想中央 要展翅飞翔<br>
-向着 心的方向<br>
-就算会受伤 有我在你身旁<br>
-快乐是 打败挫折 那份力量<br>
-用指尖画下 最美丽的期望<br>
-我喜欢 看到你的 微笑模样<br>
-向快乐出发 世界那么大<br>
-任风吹雨打 梦总会到达<br>
-向快乐出发 别害怕<br>
-幸福就像天边 灿烂的晚霞<br>
-一起来 向快乐出发 世界那么大<br>
-盛开的繁花 甜蜜的解答<br>
-向快乐出发 别害怕<br>
-不用言语表达 同样的想法<br>
-一起来吧</p>
-<p>在 我小小的胸膛 快乐不停的酝酿<br>
-希望 悄悄的 在生长 我们 不会再迷惘<br>
-曾经 还稚嫩的肩膀 变得那么的坚强<br>
-相信 快乐是 心底的阳光</p>
-<p>向快乐出发 世界那么大<br>
-任风吹雨打 梦总会到达<br>
-向快乐出发 别害怕<br>
-幸福就像天边 灿烂的晚霞<br>
-一起来 向快乐出发 世界那么大<br>
-盛开的繁花 甜蜜的解答<br>
-向快乐出发 别害怕<br>
-不用言语表达 同样的想法<br>
-一起来吧</p>
-</div>
-<div align="center">
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=360 height=86 src="//music.163.com/outchain/player?type=2&id=5242816&auto=1&height=66"></iframe>
-</div>]]></content>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GIMP图片编辑器]]></title>
@@ -506,28 +197,6 @@ Three-way comparison to compare and merge three files side-by-side<br>
 <p>Linux  / Windows / macOS</p>
 <h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
 <p>免费图片编辑器，功能强大！</p>
-<!-- more -->
-<h3 id="官方介绍"><strong>官方介绍</strong></h3>
-<p>Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins.<br>
-<em><strong>Translate：</strong></em> 无论您是平面设计师，摄影师，插图画家还是科学家，GIMP都能为您提供完善的工具来完成您的工作。借助许多自定义选项和第三方插件，您可以使用GIMP进一步提高生产力。</p>
-<p><strong>High Quality Photo Manipulation</strong><br>
-GIMP provides the tools needed for high quality image manipulation. From retouching to restoring to creative composites, the only limit is your imagination.<br>
-<em><strong>Translate：</strong></em> 高质量照片处理<br>
-GIMP提供了高质量图像处理所需的工具。从修饰到还原再到创意合成，唯一的限制就是您的想象力。</p>
-<p><strong>Original Artwork Creation</strong><br>
-GIMP gives artists the power and flexibility to transform images into truly unique creations.<br>
-<em><strong>Translate：</strong></em> 原创作品创作<br>
-GIMP为艺术家提供了将图像转换成真正独特作品的能力和灵活性。</p>
-<p>Graphic Design Elements<br>
-GIMP is used for producing icons, graphical design elements, and art for user interface components and mockups.<br>
-<em><strong>Translate：</strong></em> 平面设计元素<br>
-GIMP用于生成图标，图形设计元素以及用于用户界面组件和模型的艺术品。</p>
-<p>Programming Algorithms<br>
-GIMP is a high quality framework for scripted image manipulation, with multi-language support such as C, C++, Perl, Python, Scheme, and more!<br>
-<em><strong>Translate：</strong></em> 编程算法<br>
-GIMP是用于脚本图像处理的高质量框架，具有多语言支持，例如C，C ++，Perl，Python，Scheme等！</p>
-<p>……<br>
-<a href="https://www.gimp.org/" target="_blank">更多故事请访问官网 👉</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -555,22 +224,6 @@ GIMP是用于脚本图像处理的高质量框架，具有多语言支持，例�
 <p>Linux  / Windows / macOS</p>
 <h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
 <p>美观，快捷，支持多种主题样式，Markdown首选，赞！</p>
-<!-- more -->
-<h3 id="官方介绍"><strong>官方介绍</strong></h3>
-<p><strong>Readable &amp; Writable</strong><br>
-Typora gives you a seamless experience as both a reader and a writer. It removes the preview window, mode switcher, syntax symbols of markdown source code, and all other unnecessary distractions. Instead, it provides a real live preview feature to help you concentrate on the content itself.<br>
-<em><strong>Translate：</strong></em> 可读可写<br>
-Typora 给您既是读者又是作家的无缝体验。它删除了预览窗口，模式切换器，降价源代码的语法符号以及所有其他不必要的干扰。相反，它提供了真正的实时预览功能，可帮助您专注于内容本身。</p>
-<p><strong>Simple, yet Powerful</strong><br>
-Images,Headers,Lists,Tables,Code Fences,Mathematics,Diagrams,Inline Styles.etc..<br>
-<em><strong>Translate：</strong></em> 简单而强大<br>
-支持插入图片，标题，列表，表格，代码，数学公式，图表。等等..</p>
-<p><strong>Accessibility</strong><br>
-YOU FOCUS ON THE CONTENT, TYPORA HELPS WITH THE REST<br>
-<em><strong>Translate：</strong></em> 辅助功能<br>
-您专注于内容，TYPORA助您一臂之力</p>
-<p>……<br>
-<a href="https://typora.io/" target="_blank">更多故事请访问官网 👉</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -598,26 +251,6 @@ YOU FOCUS ON THE CONTENT, TYPORA HELPS WITH THE REST<br>
 <p>Linux &amp; Unices / Windows / macOS / Android / iOS</p>
 <h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
 <p>开源， 功能强大易用，电子书管理好帮手!</p>
-<!-- more -->
-<h3 id="官方介绍"><strong>官方介绍</strong></h3>
-<p><strong>Save time on managing your e-book collection</strong><br>
-calibre’s user interface is designed to be as simple as possible. Large buttons in the main window take care of most of your needs. The vast number of calibre’s features and options is always clearly displayed under intuitive tabs. Its context menus are neatly sorted, so the things you’re looking for almost find themselves on their own. You’re never more than three clicks away from your goal. It’s the result of years of tweaking calibre’s interface based on users’ feedback. Plus, you can change many aspects of how calibre looks and feels and try one of the three built-in library views to browse your book collection using covers, titles, tags, authors, publishers, etc.<br>
-<em><strong>Translate：</strong></em> 节省管理电子书收藏的时间<br>
-calibre 的用户界面设计得尽可能简单。主窗口中的大按钮可以满足您的大多数需求。口径的众多功能和选项始终清晰地显示在直观的标签下。它的上下文菜单排列整齐，因此您要找的东西几乎可以自己找到。您与目标之间的距离不会超过3次点击。这是多年来根据用户反馈调整口径界面的结果。此外，您可以更改口径外观的许多方面，并尝试使用三种内置库视图之一来浏览封面，书名，标签，作者，出版商等的藏书。</p>
-<p>calibre not only can download all the metadata for an e-book (things like title, author, publisher, ISBN, tags, cover or summary) but will also allow you to edit or create metadata in existing or new fields. That way you can track which books you’ve read and which ones you liked. You can also take advantage of the advanced search and sorting functions that use tags, authors, comments and more. You will find the book you were looking for in seconds!<br>
-<em><strong>Translate：</strong></em> calibre 不仅可以下载电子书的所有元数据（标题，作者，出版商，ISBN，标签，封面或摘要等内容），还可以让您在现有或新字段中编辑或创建元数据。这样一来，您就可以追踪已读过的书和喜欢的书。您还可以利用使用标签，作者，评论等的高级搜索和排序功能。您将在几秒钟内找到想要的书！</p>
-<p><strong>Use it everywhere and with anything</strong><br>
-calibre supports almost every single e-reader and is compatible with more devices with every update. You can transfer your e-books from one device to another in seconds, wirelessly or with a cable. And you don’t need any additional tools to do that. calibre will send the best file format for your device converting it if needed, automatically.<br>
-<em><strong>Translate：</strong></em> 随处使用<br>
-calibre 几乎支持每一个电子阅读器，并且每次更新都与更多设备兼容。您可以在几秒钟内通过无线或电缆将电子书从一台设备传输到另一台设备。而且，您不需要任何其他工具即可执行此操作。calibre  将为您的设备发送最佳文件格式，如果需要，可以自动将其转换。</p>
-<p>No matter what PC, laptop or tablet you use, calibre’s got you covered. And if you’re traveling and don’t have your device with you – you can take calibre on a USB stick and use it wherever you are.</p>
-<p>calibre can convert dozens of file types. No matter where you got your e-book from, it’ll be ready for your device in no time. When converting, you can also automatically change the book’s style, create a table of contents or improve punctuation and margins. calibre will also detect the format that’s best suited for your device on its own, so you don’t have to bother.</p>
-<p>calibre can also turn your personal documents to e-books or create them from scratch. It can also take all the mundane things that go with it off your plate. It has automatic style helpers and scripts generating the book’s structure. You focus on the content, calibre will take care of the rest.<br>
-<em><strong>Translate：</strong></em> 无论您使用哪种PC，笔记本电脑或平板电脑，calibre 都能满足您的需求。而且，如果您在旅途中但没有随身携带设备，则可以在USB记忆棒上使用 calibre，无论身在何处都可以使用它。</p>
-<p>calibre 可以转换数十种文件类型。无论您从何处获得电子书，它都将立即为您的设备做好准备。转换时，您还可以自动更改图书的样式，创建目录或改善标点符号和页边距。calibre 还会自动检测最适合您设备的格式，因此您不必费心。</p>
-<p>calibre 还可以将您的个人文档转换为电子书或从头开始创建它们。它还可以带走所有与之无关的普通事物。它具有自动样式帮助器和脚本，可生成书籍的结构。您专注于内容，calibre 会照顾剩下的一切。<br>
-……<br>
-<a href="https://calibre-ebook.com/" target="_blank">更多故事请访问官网 👉</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -647,16 +280,6 @@ Desktop：Windows / macOS / Linux / Google Chrome OS</p>
 Desktop：Windows / macOS / Linux / Google Chrome OS</p>
 <h3 id="推荐指数"><strong>推荐指数</strong> ⭐⭐⭐⭐⭐</h3>
 <p>流程图、UML图的不二选择，开源小巧，功能强大，支持Web版和桌面版，以前名字为 draw.io</p>
-<!-- more -->
-<h3 id="官方介绍"><strong>官方介绍</strong></h3>
-<p>As a security-first diagramming app for teams, we provide the diagramming functionality, and you choose where to keep your diagram data. There are many different integrations with other platforms and applications, including Atlassian Confluence Cloud, Google Documents, Github, Microsoft Word.<br>
-<em><strong>Translate：</strong></em> 作为团队的安全第一的绘图应用程序，我们提供了绘图功能，您可以选择在何处保存图表数据。与其他平台和应用程序有许多不同的集成，包括Atlassian Confluence Cloud，Google Documents，Github，Microsoft Word。</p>
-<p>diagrams.net allows you to create a wide variety of diagrams: flow charts, mind maps, org charts, venn diagrams, infographics, network and architecture diagrams, floor plans, electrical and rack diagrams, UML diagrams and more.<br>
-<em><strong>Translate：</strong></em> diagrams.net允许您创建各种各样的图：流程图，思维导图，组织图，维恩图，信息图，网络和体系结构图，平面图，电气和机架图，UML图等。</p>
-<p>Diagramming is not like painting with brushes as if you were editing a photo. Instead, you place diagram elements then resize, rotate, and connect them together and change their styles.<br>
-<em><strong>Translate：</strong></em> 绘制图形并不像用画笔绘画一样，就像在编辑照片一样。相反，您可以放置​​图元素，然后调整其大小，旋转并将它们连接在一起并更改其样式。<br>
-……<br>
-<a href="https://www.diagrams.net/" target="_blank">更多故事请访问官网 👉</a></p>
 ]]></content>
     </entry>
 </feed>
